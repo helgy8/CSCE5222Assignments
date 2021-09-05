@@ -1,0 +1,57 @@
+"File_Name";"Content";"Category";"Complete_Filename"
+"405.txt";"Tech could help autonomous vehicles read signs
+A UB-led study explains the physics behind reflective microscale concave interfaces — structures that reflect light in fascinating ways.
+
+Research News
+A scanning electron microscope image shows the microscale concave interface structure consisting of microspheres partially embedded in sticky tape, forming microscale concave interfaces. 
+A scanning electron microscope image shows the microscale concave interface structure that was studied. The material consists of microspheres partially embedded in sticky tape, forming microscale concave interfaces. Image: Jacob Rada
+
+By CHARLOTTE HSU
+Published September 3, 2021
+
+headshot of Qiaoqiang Gan. 
+A new study explains the science behind microscale concave interfaces (MCI) — structures that reflect light to produce beautiful and potentially useful optical phenomena.
+
+“It is vital to be able to explain how a technology works to someone before you attempt to adopt it. Our new paper defines how light interacts with microscale concave interfaces,” says UB engineering researcher Qiaoqiang Gan, noting that future applications of these effects could include aiding autonomous vehicles in recognizing traffic signs.
+
+The research was published online Aug. 15 in Applied Materials Today, and is featured in the journal’s September issue.
+
+Gan, professor of electrical engineering, School of Engineering and Applied Sciences, led the collaborative study, which was conducted by a team from UB, the University of Shanghai for Science and Technology, Fudan University, Texas Tech University and Hubei University. The first authors are Jacob Rada, UB PhD student in electrical engineering, and Haifeng Hu, professor of optical-electrical and computer engineering at the University of Shanghai for Science and Technology.
+
+Reflections that form concentric rings of light
+The study focuses on a retroreflective material — a thin film that consists of polymer microspheres laid down on the sticky side of a transparent tape. The microspheres are partially embedded in tape, and the parts that protrude form MCIs.​
+
+White light shining on this film is reflected in a way that causes the light to create concentric rainbow rings, the new paper reports. Alternately, hitting the material with a single-colored laser (red, green or blue, in the case of this study) generates a pattern of bright and dark rings. Reflections from infrared lasers also produced distinctive signals consisting of concentric rings.
+
+Concentric rainbows. 
+Concentric rainbows are produced when white light is reflected by microscale concave interfaces. This image shows the experimental set-up. Image: Jacob Rada
+
+The research describes these effects in detail, and reports on experiments that used the thin film in a stop sign. The patterns formed by the material showed up clearly on both a visual camera that detects visible light, and a LIDAR (laser imaging, detection and ranging) camera that detects infrared signals, says Rada, the co-first author from UB.
+
+“Currently, autopilot systems face many challenges in recognizing traffic signs, especially in real-world conditions,” Gan says. “Smart traffic signs made from our material could provide more signals for future systems that use LIDAR and visible pattern recognition together to identify important traffic signs. This may be helpful to improve the traffic safety for autonomous cars.”
+
+Visible (left) and infrared (right) images of a sign created using microscale concave interfaces to form the word STOP and other elements. 
+Visible (left) and infrared (right) images of a sign created using microscale concave interfaces to form the word STOP and other elements. The infrared image was taken using a LIDAR (laser imaging, detection and ranging) camera. Image: Jacob Rada
+
+We demonstrated a new combined strategy to enhance the LIDAR signal and visible pattern recognition that are currently performed by both visible and infrared cameras,” Rada explains. “Our work showed that the MCI is an ideal target for LIDAR cameras, due to the constantly strong signals that are produced.”
+
+A U.S. patent for the retroreflective material has been issued, as well as a counterpart in China, with Fudan University and UB as the patent-holders. The technology is available for licensing.
+
+Gan says future plans include testing the film using different wavelengths of light and different materials for the microspheres, with the goal of enhancing performance for possible applications such as traffic signs designed for future autonomous systems.
+
+In addition to Gan, Rada and Hu, authors of the new Applied Materials Today study include PhD candidate Lyu Zhou, Research Assistant Professor Haomin Song and PhD graduate Xie Zeng, all from the UB Department of Electrical Engineering; Jing Zeng and Limin Wu from Fudan University; Shakil Shimul and Wei Li from Texas Tech University; Wen Fan from Hubei University; and Qiwen Zhan from the University of Shanghai for Science and Technology. The research was partially funded by a grant from the U.S. National Science Foundation.";"tech";"405.txt-tech"
+
+"406.txt";"Do passengers want self-driving cars to behave more or less human?
+Recent studies have shown that people have negative attitudes about using autonomous systems because they don't trust them. Moreover, research shows a human-centered approach in autonomy is perceived as more trustworthy by users. This begs the question: Do passengers want self-driving cars to mimic their personal driving behaviors or do they hold these autonomous vehicles to a different standard?
+
+To explore this quandary, researchers from Florida Atlantic University's College of Engineering and Computer Science conducted a study asking 352 participants about their personal driving behaviors such as speed, changing lanes, distance from a car in front of them, accelerating and decelerating and passing other vehicles. They also asked them the same questions about their expectations of a self-driving car performing these very same tasks. The objective of the study was to examine trust and distrust to see if there is a relationship between an individual's driving behaviors and how they expect a self-driving car to behave.
+
+For the study, published in the proceedings HCI in Mobility, Transport and Automotive Systems, researchers asked the participants 46 questions to gain a better understanding of driving behavior and driver's expectations of self-driving cars in a variety of driving scenarios. Ultimately, information from this study can be used to construct driving models for self-driving cars.
+
+Interestingly, results showed that most people prefer a self-driving car that drives like a less aggressive version of their own driving behaviors. Participants who reported that they trust or somewhat trust artificial intelligence, autonomous technologies, and self-driving cars expected a car with behaviors similar to their personal driving behaviors. Researchers also found that the expectation of a self-driving car's level of attenuated aggressiveness witnessed among all other participants was relative to their personal driving behavior aggressiveness. For example, male drivers showed to be more aggressive drivers than female drivers, and therefore, their expectations for a self-driving car was slightly more aggressive.
+
+We found that current attitudes toward artificial intelligence, autonomous technologies, and self-driving cars had an effect on our participants' expectations of a self-driving car, said Mehrdad Nojoumian, Ph.D., senior author, and an associate professor in the Department of Electrical Engineering and Computer Science and director of the Privacy, Security and Trust in Autonomy Lab, who co-authored the paper with Jamie Craig, a graduate student and a graduate research assistant in the Department of Electrical Engineering and Computer Science. The one group that stood out to us were those who trust or somewhat trust using AI, autonomous technologies, and self-driving cars. Their driving behavior aggressiveness scores and their self-driving aggressiveness scores were not significantly different, and they would want a car that matched their personal driving behavior.
+
+The article recently received Best Paper Award from the Third International Conference on HCI in Mobility, Transport and Automotive Systems, awarded to Nojoumian and Craig, who presented the findings of the paper at the conference.
+
+The closer the automated vehicle dynamics are with those of a manually driven vehicle, the more likely that the comfort level of the automated vehicle user will improve, said Stella Batalama, Ph.D., dean, College of Engineering and Computer Science. Results from this study can be considered by engineers, computer scientists and researchers and will be useful in developing certain profiles or settings for self-driving cars and overall can help in designing one that is perceived as trustworthy by passengers.";"tech";"406.txt-tech"
